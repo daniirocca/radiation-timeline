@@ -1,0 +1,52 @@
+[
+    {
+      "year": 1986,
+      "name": "Chernobyl",
+      "summary": "Catastrophic reactor explosion in Ukraine.",
+      "ines": "INES Level 7",
+      "details": "The worst nuclear disaster in history, causing widespread radioactive contamination across Europe."
+    },
+    {
+      "year": 1987,
+      "name": "Goiânia",
+      "summary": "Cesium-137 contamination in Brazil.",
+      "ines": "INES Level 5",
+      "details": "Source of radiation from a medical device caused serious contamination and fatalities."
+    },
+    {
+      "year": 1979,
+      "name": "Three Mile Island",
+      "summary": "Partial meltdown in the USA.",
+      "ines": "INES Level 5",
+      "details": "Caused changes in nuclear safety protocols across the world."
+    },
+    {
+      "year": 2011,
+      "name": "Fukushima",
+      "summary": "Earthquake and tsunami led to meltdown.",
+      "ines": "INES Level 7",
+      "details": "Released radioactive material into the ocean and affected global nuclear policy."
+    },
+    {
+      "year": 1957,
+      "name": "Kyshtym",
+      "summary": "Explosion at Mayak plant in Russia.",
+      "ines": "INES Level 6",
+      "details": "One of the earliest major nuclear accidents, heavily censored by Soviet authorities."
+    },
+    {
+      "year": 1999,
+      "name": "Tokaimura",
+      "summary": "Criticality accident in Japan.",
+      "ines": "INES Level 4",
+      "details": "Two technicians died due to radiation exposure during uranium handling."
+    },
+    {
+      "year": 1961,
+      "name": "SL-1",
+      "summary": "Reactor explosion in the USA.",
+      "ines": "INES Level 4",
+      "details": "Three workers were killed in a small military reactor meltdown in Idaho."
+    }
+  ]
+  
