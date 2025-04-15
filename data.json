@@ -1,52 +1,92 @@
 [
-    {
-      "year": 1986,
-      "name": "Chernobyl",
-      "summary": "Catastrophic reactor explosion in Ukraine.",
-      "ines": "INES Level 7",
-      "details": "The worst nuclear disaster in history, causing widespread radioactive contamination across Europe."
-    },
-    {
-      "year": 1987,
-      "name": "Goiânia",
-      "summary": "Cesium-137 contamination in Brazil.",
-      "ines": "INES Level 5",
-      "details": "Source of radiation from a medical device caused serious contamination and fatalities."
-    },
-    {
-      "year": 1979,
-      "name": "Three Mile Island",
-      "summary": "Partial meltdown in the USA.",
-      "ines": "INES Level 5",
-      "details": "Caused changes in nuclear safety protocols across the world."
-    },
-    {
-      "year": 2011,
-      "name": "Fukushima",
-      "summary": "Earthquake and tsunami led to meltdown.",
-      "ines": "INES Level 7",
-      "details": "Released radioactive material into the ocean and affected global nuclear policy."
-    },
-    {
-      "year": 1957,
-      "name": "Kyshtym",
-      "summary": "Explosion at Mayak plant in Russia.",
-      "ines": "INES Level 6",
-      "details": "One of the earliest major nuclear accidents, heavily censored by Soviet authorities."
-    },
-    {
-      "year": 1999,
-      "name": "Tokaimura",
-      "summary": "Criticality accident in Japan.",
-      "ines": "INES Level 4",
-      "details": "Two technicians died due to radiation exposure during uranium handling."
-    },
-    {
-      "year": 1961,
-      "name": "SL-1",
-      "summary": "Reactor explosion in the USA.",
-      "ines": "INES Level 4",
-      "details": "Three workers were killed in a small military reactor meltdown in Idaho."
-    }
-  ]
-  
+  {
+    "year": 1945,
+    "name": "Trinity Test",
+    "summary": "First nuclear explosion in history.",
+    "ines": "Not Applicable",
+    "location": "New Mexico, USA 🇺🇸",
+    "details": "The first detonation of a nuclear device, conducted by the United States as part of the Manhattan Project.",
+    "link": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)"
+  },
+  {
+    "year": 1945,
+    "name": "Hiroshima & Nagasaki",
+    "summary": "Atomic bombings in Japan during WWII.",
+    "ines": "Not Applicable",
+    "location": "Hiroshima and Nagasaki, Japan 🇯🇵",
+    "details": "Atomic bombs were dropped by the US, killing over 200,000 people and causing long-term radiation effects.",
+    "link": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+  },
+  {
+    "year": 1957,
+    "name": "Kyshtym Disaster",
+    "summary": "Explosion at Mayak nuclear plant.",
+    "ines": "INES Level 6",
+    "location": "Chelyabinsk Oblast, Russia 🇷🇺",
+    "details": "A failed storage tank led to a radioactive release. Covered up by Soviet authorities until decades later.",
+    "link": "https://en.wikipedia.org/wiki/Kyshtym_disaster"
+  },
+  {
+    "year": 1961,
+    "name": "SL-1 Reactor Explosion",
+    "summary": "Meltdown of military reactor.",
+    "ines": "INES Level 4",
+    "location": "Idaho Falls, USA 🇺🇸",
+    "details": "Three operators were killed when a control rod was removed too far, causing a steam explosion.",
+    "link": "https://en.wikipedia.org/wiki/SL-1"
+  },
+  {
+    "year": 1968,
+    "name": "Baneberry Test",
+    "summary": "Underground test vented radiation.",
+    "ines": "INES Level 3",
+    "location": "Nevada Test Site, USA 🇺🇸",
+    "details": "An underground nuclear test that unintentionally vented radioactive dust into the atmosphere.",
+    "link": "https://en.wikipedia.org/wiki/Baneberry_(nuclear_test)"
+  },
+  {
+    "year": 1979,
+    "name": "Three Mile Island",
+    "summary": "Partial meltdown of a reactor.",
+    "ines": "INES Level 5",
+    "location": "Pennsylvania, USA 🇺🇸",
+    "details": "A loss of coolant caused a partial meltdown, significantly affecting public opinion on nuclear power.",
+    "link": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident"
+  },
+  {
+    "year": 1986,
+    "name": "Chernobyl Disaster",
+    "summary": "Catastrophic reactor explosion.",
+    "ines": "INES Level 7",
+    "location": "Pripyat, Ukraine 🇺🇦 (USSR)",
+    "details": "The worst nuclear disaster in history. A reactor explosion released radioactive material across Europe.",
+    "link": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+  },
+  {
+    "year": 1987,
+    "name": "Goiânia Accident",
+    "summary": "Cesium-137 exposure from medical device.",
+    "ines": "INES Level 5",
+    "location": "Goiânia, Brazil 🇧🇷",
+    "details": "A scavenged radiotherapy source caused widespread radiation poisoning and environmental contamination.",
+    "link": "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident"
+  },
+  {
+    "year": 1999,
+    "name": "Tokaimura Criticality",
+    "summary": "Accidental chain reaction.",
+    "ines": "INES Level 4",
+    "location": "Ibaraki Prefecture, Japan 🇯🇵",
+    "details": "Two workers died after mishandling uranium, causing a sustained nuclear chain reaction.",
+    "link": "https://en.wikipedia.org/wiki/Tokaimura_nuclear_accident"
+  },
+  {
+    "year": 2011,
+    "name": "Fukushima Daiichi",
+    "summary": "Tsunami-induced reactor failure.",
+    "ines": "INES Level 7",
+    "location": "Fukushima, Japan 🇯🇵",
+    "details": "A 9.0 earthquake and tsunami disabled power and cooling, resulting in core meltdowns and hydrogen explosions.",
+    "link": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster"
+  }
+]
